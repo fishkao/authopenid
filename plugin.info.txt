@@ -2,6 +2,6 @@ base   authopenid
 author Andreas Gohr, Yilan Zhao
 email  andi@splitbrain.org, zhaoyinlan@live.cn
 date   2014-04-02
-name   Plain Auth Plugin
+name   Plain Auth Plugin without password
 desc   Provides user authentication against DokuWiki's local password storage
-url    http://www.dokuwiki.org/plugin:authplain
+url    https://github.com/fishkao/authopenid/archive/master.zip
